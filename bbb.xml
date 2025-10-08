@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <from>abc@gmail.com</from>
+    <to>xyz@gmail.com</to>
+    <subject>Hello today</subject>
+    <content>How are you today?</content>
+</email>
